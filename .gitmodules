@@ -1,0 +1,6 @@
+[submodule "alarmBear-mobile"]
+	path = alarmBear-mobile
+	url = https://github.com/gkum4/alarmBear-mobile
+[submodule "alarmBear-nodemcuesp8266"]
+	path = alarmBear-nodemcuesp8266
+	url = https://github.com/gkum4/alarmBear-nodemcuesp8266
